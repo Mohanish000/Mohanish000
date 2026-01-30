@@ -42,13 +42,6 @@ I specialize in **full-stack development** using the **MERN Stack**, with hands-
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-### Core Concepts
-- Object-Oriented Programming (OOP)
-- Data Structures & Algorithms
-- System Design
-- RESTful API Design
-- IoT Solutions
-
 ---
 
 ## 🔭 What I'm Currently Working On
