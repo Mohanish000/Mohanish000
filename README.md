@@ -68,30 +68,6 @@ I specialize in **full-stack development** using the **MERN Stack**, with hands-
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  ![Mohanish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohanish000&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mohanish000&theme=tokyonight&hide_border=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohanish000&layout=compact&theme=tokyonight&hide_border=true)
-  
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-  ![Trophy](https://github-profile-trophy.vercel.app/?username=Mohanish000&theme=tokyonight&no-frame=true&row=1&column=7)
-  
-</div>
-
----
-
 ## 📫 Let's Connect!
 
 I'm always open to interesting conversations, collaboration opportunities, and innovative projects!
