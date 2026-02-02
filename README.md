@@ -1,78 +1,113 @@
-# Hi there, I'm Mohanish! 👋
-
 <div align="center">
-  
-  ### 🎓 Computer Science Undergraduate | 💼 Software Engineer Intern | 🚀 Full-Stack Developer
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohanishpodhade)
-  
+
+# 👋 Hi there, I'm Mohanish!
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Computer+Science+Undergraduate;Software+Engineer+Intern;Full-Stack+Developer" alt="Typing SVG" />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohanishpodhade)
+
 </div>
 
----
+<br/>
 
 ## 🚀 About Me
 
-I'm a **Computer Science undergraduate** at **KJ Somaiya College of Engineering**, currently working as a **Software Engineer Intern** at **Impact Guru**, Mumbai's leading crowdfunding platform.
+<img align="right" width="150" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding">
 
-I specialize in **full-stack development** using the **MERN Stack**, with hands-on experience building:
-- 🌐 Scalable web applications
-- 🔌 RESTful APIs
-- 🤖 IoT solutions
+- 🎓 **Computer Science Undergraduate** at **KJ Somaiya College of Engineering**
+- 💼 **Software Engineer Intern** at **Impact Guru** (Mumbai's leading crowdfunding platform)
+- 💻 Specializing in **Full-Stack Development** using the **MERN Stack**
 
-**Passionate about fintech and enterprise software**, I focus on creating high-performance, maintainable systems that solve real-world problems. Always eager to learn, collaborate, and contribute to innovative projects!
+<br clear="right"/>
 
----
+### 🛠️ What I Build
+
+```javascript
+const expertise = {
+    webApplications: "Scalable web applications",
+    apis: "RESTful APIs",
+    iot: "IoT solutions",
+    focus: ["Fintech", "Enterprise Software"],
+    goal: "High-performance, maintainable systems that solve real-world problems"
+};
+```
+
+<br/>
 
 ## 💻 Tech Stack
 
-### Frontend
-![React](https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+<div align="center">
 
-### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Tools & Technologies
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
----
+### 🔧 Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## 🔭 What I'm Currently Working On
+</div>
 
-- 🏢 Working on **backend development** at **Impact Guru**
-- 🌱 Exploring **Cloud Technologies** and **DevOps practices**
+<br/>
+
+## 🔭 Current Focus
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💼 Working On
+- 🏢 Backend development at **Impact Guru**
+- 🌱 Exploring **Cloud Technologies**
+- 🚀 Learning **DevOps practices**
 - 💡 Contributing to **open-source projects**
 
----
+</td>
+<td width="50%" valign="top">
 
-## 🎯 Areas of Interest
-
+### 🎯 Interests
 - 💰 **Fintech** - Building financial technology solutions
 - 🏢 **Enterprise Software** - Scalable, maintainable systems
 - 🤖 **IoT** - Internet of Things applications
 - 🔧 **System Architecture** - Designing robust distributed systems
 
----
+</td>
+</tr>
+</table>
+
+<br/>
 
 ## 📫 Let's Connect!
 
-I'm always open to interesting conversations, collaboration opportunities, and innovative projects!
+<div align="center">
 
-💼 **LinkedIn**: [Mohanish Podhade](https://www.linkedin.com/in/mohanishpodhade)
+**I'm always open to interesting conversations, collaboration opportunities, and innovative projects!**
+
+<br/>
+
+<a href="https://www.linkedin.com/in/mohanishpodhade">
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<br/><br/>
 
 ---
 
-<div align="center">
-  
-  ### 💡 "Building tomorrow's solutions, one commit at a time"
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=Mohanish000&color=blueviolet&style=flat-square)
-  
+### 💡 *"Building tomorrow's solutions, one commit at a time"*
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Mohanish000&color=6366F1&style=for-the-badge&label=Profile+Views)
+
 </div>
