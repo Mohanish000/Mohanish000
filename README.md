@@ -92,7 +92,7 @@ const expertise = {
 
 <div align="center">
 
-**I'm always open to interesting conversations, collaboration opportunities, and innovative projects!**
+**I'm always open to interesting conversations, collaboration opportunities, and innovative projects! Thank You!!**
 
 <br/>
 
